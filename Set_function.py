@@ -1,0 +1,8 @@
+num1=(1,3,2,3,5,2,6,7,5,)
+print(num1)
+num2=set(num1)
+num2.add(9)
+print(num2)
+print(4 in num2)
+#print(num1 | num2)
+#print(num1 & num2) 
